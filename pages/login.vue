@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 <template>
-  <div class="bg-amber-100 min-h-screen w-full grid place-items-center">
+  <div class="bg- min-h-screen w-full grid place-items-center">
     <UCard
       class="min-h-[500px] h-[70vh] w-[60vw]"
       :ui="{
