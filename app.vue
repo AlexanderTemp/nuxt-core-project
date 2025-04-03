@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Toaster from '@nuxt/ui/runtime/components/Toaster.vue';
+import { Toaster } from 'vue-sonner';
 </script>
 <template>
   <UApp>
